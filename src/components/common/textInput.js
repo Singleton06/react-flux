@@ -29,7 +29,7 @@ var Input = React.createClass({
           </div>
       </div>
     );
-  },
+  }
 });
 
 module.exports = Input;

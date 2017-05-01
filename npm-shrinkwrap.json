@@ -4053,7 +4053,7 @@
     },
     "object-assign": {
       "version": "3.0.0",
-      "from": "object-assign@>=3.0.0 <4.0.0",
+      "from": "https://registry.npmjs.org/object-assign/-/object-assign-3.0.0.tgz",
       "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-3.0.0.tgz"
     },
     "react": {
